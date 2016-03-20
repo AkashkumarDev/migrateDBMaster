@@ -50,6 +50,10 @@ module MigrateDbMaster
     #   end
     #
 
+    get '/' do
+      'Welcome'
+    end
+
     ##
     # You can manage errors like:
     #

@@ -25,6 +25,7 @@ gem 'sqlite3'
 gem 'padrino', '0.13.1'
 gem 'sequel'
 gem 'mysql2'
+gem 'redis'
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'
 
