@@ -17,12 +17,14 @@ source 'https://rubygems.org'
 gem 'rake'
 
 # Component requirements
+gem 'sqlite3'
 
 # Test requirements
 
 # Padrino Stable Gem
 gem 'padrino', '0.13.1'
-
+gem 'sequel'
+gem 'mysql2'
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'
 
