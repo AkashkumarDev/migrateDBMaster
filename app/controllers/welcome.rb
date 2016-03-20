@@ -16,7 +16,7 @@ MigrateDbMaster::App.controllers :welcome do
   # end
 
   get '/' do
-    'Hello world!'
+    render 'index'
   end
 
 
